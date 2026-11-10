@@ -2,5 +2,5 @@
 Realizado por: Emily Jara
 Asignatura: Programación 2 (ICINF1109-3)
 
-#Descripción del proyecto
+# Descripción del proyecto
 Sistema de Préstamos de Equipamiento Tecnológico
